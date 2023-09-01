@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148625856225",
+    "project_id": "celebrates-487e1",
+    "storage_bucket": "celebrates-487e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148625856225:android:5f12a152f4f2ba0eca09a0",
+        "android_client_info": {
+          "package_name": "com.celebrates.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148625856225-jju43926ahv4p9ud0u6t52fj2h98tfss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPt7FBYEkiUvINkrMrC6aHlxR87gDwVK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148625856225-jju43926ahv4p9ud0u6t52fj2h98tfss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
